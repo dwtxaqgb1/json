@@ -3,10 +3,10 @@
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
-      "key": "csp_missav",
+      "key": "csp_Missav",
       "name": "miss",
       "type": 3,
-      "api": "csp_missav",
+      "api": "csp_Missav",
       "searchable": 0,
       "changeable": 0,
       "ext": "./json/market.json"
