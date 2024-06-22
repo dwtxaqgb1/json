@@ -12,10 +12,10 @@
       "ext": "./json/market.json"
     },
     {
-      "key": "泥巴",
-      "name": "泥巴",
+      "key": "csp_Missav",
+      "name": "miss",
       "type": 3,
-      "api": "csp_NiNi",
+      "api": "csp_Missav",
       "searchable": 1,
       "changeable": 1
     },
